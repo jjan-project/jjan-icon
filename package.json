@@ -1,0 +1,18 @@
+{
+  "name": "jjan-icon",
+  "version": "0.0.1-2023-03-24",
+  "description": "Icon Packages for JJAN Projects.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gomgun-lab",
+  "license": "ISC",
+  "devDependencies": {
+    "@svgr/core": "^6.5.1",
+    "@svgr/plugin-prettier": "^6.5.1",
+    "@types/react": "^18.0.28"
+  }
+}
