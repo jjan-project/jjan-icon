@@ -1,10 +1,11 @@
 {
   "name": "jjan-icon",
-  "version": "0.0.1-2023-03-24",
+  "version": "0.0.2-2023-07-03",
   "description": "Icon Packages for JJAN Projects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "generate": "node src/generator/generator.js",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
