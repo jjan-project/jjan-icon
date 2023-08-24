@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import IconAlertEmpty from './IconAlertEmpty';
 import IconBookmark from './IconBookmark';
 import IconAlertFilled from './IconAlertFilled';
@@ -28,3 +29,35 @@ import IconSearch from './IconSearch';
 import IconLocationPlus from './IconLocationPlus';
 
 export { IconAlertEmpty, IconBookmark, IconAlertFilled, IconCaretDown, IconChat, IconChevronLeftSmall, IconClock, IconChevronRightSmall, IconCheck, IconCancel, IconCamera, IconJjanLogo, IconLocationOn, IconHome, IconMenu, IconPeopleGroup, IconPerson, IconMascot3, IconMascot4, IconMascot1, IconMascot2, IconNavigator, IconPensil, IconChevronLeftLarge, IconPeopleInvite, IconRightArrow, IconSearch, IconLocationPlus };
+=======
+import IconBookmark from './IconBookmark';
+import IconAlertFilled from './IconAlertFilled';
+import IconAlertEmpty from './IconAlertEmpty';
+import IconCamera from './IconCamera';
+import IconCheck from './IconCheck';
+import IconCancel from './IconCancel';
+import IconCaretDown from './IconCaretDown';
+import IconChat from './IconChat';
+import IconChevronLeftLarge from './IconChevronLeftLarge';
+import IconChevronRightSmall from './IconChevronRightSmall';
+import IconChevronLeftSmall from './IconChevronLeftSmall';
+import IconClock from './IconClock';
+import IconHome from './IconHome';
+import IconLocationOn from './IconLocationOn';
+import IconLocationPlus from './IconLocationPlus';
+import IconJjanLogo from './IconJjanLogo';
+import IconMascot1 from './IconMascot1';
+import IconMascot2 from './IconMascot2';
+import IconMascot3 from './IconMascot3';
+import IconMenu from './IconMenu';
+import IconMascot4 from './IconMascot4';
+import IconPensil from './IconPensil';
+import IconNavigator from './IconNavigator';
+import IconPeopleGroup from './IconPeopleGroup';
+import IconPeopleInvite from './IconPeopleInvite';
+import IconRightArrow from './IconRightArrow';
+import IconPerson from './IconPerson';
+import IconSearch from './IconSearch';
+
+export { IconBookmark, IconAlertFilled, IconAlertEmpty, IconCamera, IconCheck, IconCancel, IconCaretDown, IconChat, IconChevronLeftLarge, IconChevronRightSmall, IconChevronLeftSmall, IconClock, IconHome, IconLocationOn, IconLocationPlus, IconJjanLogo, IconMascot1, IconMascot2, IconMascot3, IconMenu, IconMascot4, IconPensil, IconNavigator, IconPeopleGroup, IconPeopleInvite, IconRightArrow, IconPerson, IconSearch };
+>>>>>>> 70da70c852d17135eca1eca0434b6a992d1f16dc
