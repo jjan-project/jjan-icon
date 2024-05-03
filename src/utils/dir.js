@@ -1,7 +1,7 @@
-const path = require("path");
-
-const rootPath = path.resolve(__dirname, "../");
-
-module.exports = {
-  rootPath,
-};
+export function toPascalCase(str) {
+  return str
+    .replace(/(^\w|-\w)/g, (match) =>
+      match.charAt(match.length - 1).toUpperCase()
+    )
+    .replace(/-/g, "");
+}
