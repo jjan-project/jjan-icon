@@ -4,6 +4,7 @@
   "description": "Icon Packages for JJAN Projects.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "generate": "node src/generator/generator.js",
     "build": "tsc",
